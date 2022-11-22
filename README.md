@@ -1,21 +1,5 @@
 ### Hi there 👋
 
-<!--
-**sandeeppatel1986/sandeeppatel1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there 👋
-
 I'm Sandeep.  
 
 Inquire, Analyze, Visualize, Formalize and Communicate describes my skills. Yes, I am a Senior Software Devloper, having more than 12 years of experience in serving IT industry. I have an extensive experience in Solution Design, Business Development, and Feasibility study. My dream was to attain the accountable, hard-hitting and rewarding position, which imparts the possibility for cross-functional learning and professional development. It came true 11 years back when I became a co-founder of byPeopleTechnology in 2011.
@@ -23,7 +7,7 @@ Inquire, Analyze, Visualize, Formalize and Communicate describes my skills. Yes,
 I am very capable with an ability to understand the client/user perspective. I identify the solutions and then deal with a client’s needs by translating them into appropriate technical solutions. I always motivate and guide colleagues and offer robust consultancy service to clients.
 Moreover, I have hands-on experience in software development for web applications, enterprise application, and mobile applications. I have multi-skilled experience with exceptional ability to tackle challenging projects and meet stringent deadlines.
 
-[![Jaydeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=patelsandeep1986&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&line_height=30)]
+[![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeeppatel1986&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&line_height=30)]
 
 <h3 align="left">Languages and Tools:</h3>
 
